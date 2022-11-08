@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#departureArrivalDiv{
+    display: flex;
+    flex-direction: column;
+}
