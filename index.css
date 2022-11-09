@@ -14,7 +14,8 @@ body{
     justify-content: center;
     background-color: red;
     width: 30vw;
-    height: 50vh
+    height: 50vh;
+    padding: 20px;
 }
 #container-right {
     display: flex;
@@ -22,6 +23,7 @@ body{
     background-color: yellow;
     width: 30vw;
     height: 50vh;
+    padding: 20px;
 }
 #element-row{
     display: flex;
